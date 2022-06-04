@@ -36,10 +36,10 @@ All duplicate rows were removed.
 
 3.	Handling Null or Missing Values
 
-	- Null values in NO_OF_TRXNS202005, NO_OF_TRXNS202006, TURNOVER202005, TURNOVER202006 were replaced with 0.
-  - Missing values in Insur PackName were replaced with ‘others’
+  - Null values in *NO_OF_TRXNS202005, NO_OF_TRXNS202006, TURNOVER202005, TURNOVER202006* were replaced with 0.
+  - Missing values in *Insur PackName* were replaced with ‘others’
 
-# Exploratory Data Analysis 
+## Exploratory Data Analysis 
 
 In the EDA, I’ve tried to answer the following questions:
 1. Which customer segment is most prevalent?
