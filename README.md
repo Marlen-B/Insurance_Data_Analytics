@@ -2,7 +2,7 @@
 
 
 
-We are provided with an Insurance dataset.
+We ware provided with an Insurance dataset.
 The main objective is perform EDA on the given dataset and draw useful conclusions about general trends in Insurance products and how factors governing Insurance market interact with each other.
 
  
