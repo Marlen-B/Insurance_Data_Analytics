@@ -12,14 +12,14 @@ The main objective is perform EDA on the given dataset and draw useful conclusio
 A Dataset called **Data analytics Project dataset** was given and after collecting and reading this data I’ve observed that it has 139390 rows and 26 columns.
 The columns variables that I’ve used for this analysis were:
 
-*InsurProductID:   Product code origination or contract, all products are linked to a system generation number 
-*InsurCustomerID: 	Unique system bank id customer number
-*Sub Seg: 	Customer Segment
-*Insurance:  Currency	Currency
-*Insur Sub Name: 	Product Name
-*Insur Bank:   Related	Some products that a merely mandatory, e.g. there's no need to sign for them 
-*Insur PackName:  	Insurance product family/group
-*Product Status: 	Product Status
+* InsurProductID:   Product code origination or contract, all products are linked to a system generation number 
+* InsurCustomerID: 	Unique system bank id customer number
+* Sub Seg: 	Customer Segment
+* Insurance:  Currency	Currency
+* Insur Sub Name: 	Product Name
+* Insur Bank:   Related	Some products that a merely mandatory, e.g. there's no need to sign for them 
+* Insur PackName:  	Insurance product family/group
+* Product Status: 	Product Status
 
 
 
