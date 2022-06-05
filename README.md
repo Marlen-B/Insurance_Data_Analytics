@@ -46,6 +46,7 @@ In the EDA, I’ve tried to answer the following questions:
 2. Which insurance group is most prevalent?
 3. What is the status of product distribution?
 4. Which customer segment has the most cancellations?
+5. Which product group has most cancellations?
 
 For these questions I had the following answers:
 
@@ -53,6 +54,7 @@ For these questions I had the following answers:
 2. The most prevalent Insurance group is Funeral.
 3. The status is: 62% ACTIVE, 34% CANCELLED, 3% MATURED.
 4. The customer segment with more cancellations is GENNESIS with a index of 40%.
+5. The insurance product group with most cancellatios is SP.BLUE with a indes of 49%.
 
 # CONCLUSIONS
 
@@ -60,3 +62,4 @@ For these questions I had the following answers:
 -	The segment with the most cancellations is GENNESIS, with an index of approximately 40%. This value is worrying because GENNESIS is the product segment with the most adherence, therefore of the 91947 customers, around 37633 canceled the insurance;
 -	With the facts described above, we can conclude that customers in the GENNESIS segment are more likely to cancel the product in the future;
 -	Looking at the results obtained, the best product is platinum, which occupies the third position in the ranking of most used segments and has a cancellation rate of 9%.
+-	Approximately half of all SP.BUE group product users have canceled. Making it more susceptible to churns in the future.
